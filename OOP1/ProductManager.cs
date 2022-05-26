@@ -12,12 +12,15 @@ namespace OOP1
 
         public void Add(Product product)
         {
-
+            product.ProductName = "Kamera";
 
         }
 
-        public void BİseyYa
+        public void BiseyYap(int sayi)
+        {
+            sayi = 99;
 
+        }
 
     }
 }
